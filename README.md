@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROBOGUYONLIN
 - 👀 I’m interested in gaming and programming
 - 🌱 I’m currently learning how to collaborate on makecode arcade
-- 💞️ I’m looking to collaborate on my current prokec: the tale of Ethan the pokemon collector.
+- 💞️ I’m looking to collaborate on my current project: the tale of Ethan the pokemon collector.
 - 📫 How to reach me ...
 
 <!---
